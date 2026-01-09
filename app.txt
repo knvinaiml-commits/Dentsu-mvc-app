@@ -1,0 +1,10 @@
+Git -v
+git Init 
+git add *
+git commit 
+git remote (one time activity)
+git push 
+git clone
+git commit
+git pull
+git remote add origin-GitHub https://github.com/knvinaiml-commits/Dentsu-mvc-app.git
